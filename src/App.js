@@ -17,6 +17,8 @@ function App() {
           <header className="header">
             <h1>National Achievement Test Data Management</h1>
             <h1>National Achievement Test Data Management</h1>
+            <h1>National Achievement Test Data Management</h1>
+            <h1>National Achievement Test Data Management</h1>
           </header>
           <div className="main-content">
             <Routes>
